@@ -19,5 +19,5 @@ This is a sample of a bank login  website.
 ## Click below to explore...
 [CLICK ME](https://shahinuralambhuiyan.github.io/Trust-Bank/)
 
-## Let's take a look!
+## Let's take a look login page!
 ![alt text](images/site-ss.jpg)
